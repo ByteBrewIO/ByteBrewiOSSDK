@@ -45,7 +45,7 @@ A/B Testing:
 
  ## ChangeLog
  ### 0.0.5
- - Fixed simple spelling mistake in Initialize
+ - Fixed simple spelling mistake for method: InitialzeWithSettings -> InitializeWithSettings.
  ### 0.0.4
  - First launch of ByteBrew SDK availible for iOS Mobile Developers
 
