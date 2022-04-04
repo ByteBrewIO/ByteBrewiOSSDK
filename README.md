@@ -47,6 +47,11 @@ A/B Testing:
 
 
  ## ChangeLog
+ ### 0.0.7
+ - Update to ByteBrew iOS SDK
+ - Additions:
+    - Update with Purchase Validation Callback.
+ 
  ### 0.0.6
  - Update to ByteBrew iOS SDK
  - Additions:
