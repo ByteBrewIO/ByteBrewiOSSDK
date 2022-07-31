@@ -1,6 +1,8 @@
 # ByteBrewiOSSDK
  ByteBrew is the free easy to integrate iOS Mobile SDK that provides your game with Real-Time Analytic Tracking, Monetization Tracking, Attribution, Remote Configs and A/B Testing.
 
+ ## Objective-C & Swift Support
+
  ## Summary
  A product of ByteBrew’s all-in-one platform, the ByteBrew SDK gives you instant integration to the following key features and tools for your games on the ByteBrew Dashboard:
 
@@ -47,6 +49,15 @@ A/B Testing:
 
 
  ## ChangeLog
+ ### 0.0.8
+ - Update to ByteBrew iOS SDK
+ - Additions:
+    - Swift Support.
+    - XCFramework package.
+ - Updates:
+    - Support for compatibility with Flutter + React-Native.
+    - Other minor updates.
+
  ### 0.0.7
  - Update to ByteBrew iOS SDK
  - Additions:
