@@ -49,6 +49,11 @@ A/B Testing:
 
 
  ## ChangeLog
+  ### 0.0.9
+ - Update to ByteBrew iOS SDK
+ - Additions:
+    - IsByteBrewInitialized method.
+ 
  ### 0.0.8
  - Update to ByteBrew iOS SDK
  - Additions:
