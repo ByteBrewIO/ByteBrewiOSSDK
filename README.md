@@ -49,7 +49,12 @@ A/B Testing:
 
 
  ## ChangeLog
-  ### 0.0.9
+### 0.1.0
+ - Update to ByteBrew iOS SDK
+ - Updates:
+    - Update for new A/B Testing features and fixes.
+ 
+### 0.0.9
  - Update to ByteBrew iOS SDK
  - Additions:
     - IsByteBrewInitialized method.
