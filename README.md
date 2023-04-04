@@ -49,6 +49,12 @@ A/B Testing:
 
 
  ## ChangeLog
+### 0.1.1
+ - Update to ByteBrew iOS SDK
+ - Updates:
+   - Minor iOS updates.
+   - Updates for Apple Search Ads, and Google Ads Attribution.
+
 ### 0.1.0
  - Update to ByteBrew iOS SDK
  - Updates:
