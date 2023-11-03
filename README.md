@@ -49,6 +49,14 @@ A/B Testing:
 
 
  ## ChangeLog
+### 0.1.2
+ - Update to ByteBrew iOS SDK
+ - Updates:
+   - Minor iOS updates.
+   - Updates for Google Ads Attribution.
+   - Updates for ATT.
+   - Added new revenue parameter for track ad event.
+
 ### 0.1.1
  - Update to ByteBrew iOS SDK
  - Updates:
