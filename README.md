@@ -49,6 +49,12 @@ A/B Testing:
 
 
  ## ChangeLog
+### 0.1.3
+ - Update to ByteBrew iOS SDK
+ - Updates:
+   - Minor iOS updates.
+   - Updates for Privacy Manifest.
+   
 ### 0.1.2
  - Update to ByteBrew iOS SDK
  - Updates:
